@@ -1,10 +1,10 @@
 Test Name,Variable,Set Value,Measured Value,Unit,Status
-Pressure Stability Test,pressure,100,102.31,mbar,PASS
-Pressure Stability Test,pressure,200,198.56,mbar,PASS
-Pressure Stability Test,pressure,300,299.55,mbar,PASS
-Pressure Stability Test,pressure,400,402.88,mbar,PASS
-Pressure Stability Test,pressure,500,504.36,mbar,PASS
-Flow Rate Consistency Test,flow_rate,5,0.25,ÂµL/min,FAIL
-Flow Rate Consistency Test,flow_rate,10,6.78,ÂµL/min,PASS
-Flow Rate Consistency Test,flow_rate,15,17.3,ÂµL/min,PASS
-Flow Rate Consistency Test,flow_rate,20,15.66,ÂµL/min,PASS
+Pressure Stability Test,pressure,100,102.97,mbar,PASS
+Pressure Stability Test,pressure,200,197.91,mbar,PASS
+Pressure Stability Test,pressure,300,303.86,mbar,PASS
+Pressure Stability Test,pressure,400,395.44,mbar,PASS
+Pressure Stability Test,pressure,500,496.24,mbar,PASS
+Flow Rate Consistency Test,flow_rate,5,1.04,ÂµL/min,FAIL
+Flow Rate Consistency Test,flow_rate,10,8.45,ÂµL/min,PASS
+Flow Rate Consistency Test,flow_rate,15,16.64,ÂµL/min,PASS
+Flow Rate Consistency Test,flow_rate,20,24.49,ÂµL/min,FAIL

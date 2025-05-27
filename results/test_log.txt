@@ -1,0 +1,11 @@
+2025-05-28 00:04:33,342 INFO:Loaded test plan successfully.
+2025-05-28 00:04:33,342 INFO:Pressure Stability Test | Set: 100 | Measured: 102.97 | Status: PASS
+2025-05-28 00:04:33,342 INFO:Pressure Stability Test | Set: 200 | Measured: 197.91 | Status: PASS
+2025-05-28 00:04:33,342 INFO:Pressure Stability Test | Set: 300 | Measured: 303.86 | Status: PASS
+2025-05-28 00:04:33,342 INFO:Pressure Stability Test | Set: 400 | Measured: 395.44 | Status: PASS
+2025-05-28 00:04:33,342 INFO:Pressure Stability Test | Set: 500 | Measured: 496.24 | Status: PASS
+2025-05-28 00:04:33,342 INFO:Flow Rate Consistency Test | Set: 5 | Measured: 1.04 | Status: FAIL
+2025-05-28 00:04:33,342 INFO:Flow Rate Consistency Test | Set: 10 | Measured: 8.45 | Status: PASS
+2025-05-28 00:04:33,342 INFO:Flow Rate Consistency Test | Set: 15 | Measured: 16.64 | Status: PASS
+2025-05-28 00:04:33,342 INFO:Flow Rate Consistency Test | Set: 20 | Measured: 24.49 | Status: FAIL
+2025-05-28 00:04:33,360 INFO:Test results saved to results/test_results.csv
