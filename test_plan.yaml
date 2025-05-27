@@ -1,0 +1,12 @@
+tests:
+  - name: Pressure Stability Test
+    variable: pressure
+    units: mbar
+    values: [100, 200, 300, 400, 500]
+    expected_range: [90, 510]
+
+  - name: Flow Rate Consistency Test
+    variable: flow_rate
+    units: µL/min
+    values: [5, 10, 15, 20]
+    expected_range: [4.5, 20.5]
